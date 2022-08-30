@@ -1,13 +1,7 @@
----
-title: Comparing Spatial Distributions of the North Atlantic Right Whale and Commercial Shipping
-  Lanes
-author: "Diane Egret"
-date: 'August 28th 2022'
-output:
-  html_document: default
-  word_document: default
----
+## Comparing Spatial Distributions of the North Atlantic Right Whale and Commercial Shipping Lanes
+Diane Egret
 
+August 28th, 2022
 ### A. Set up the working environment
 
 Set the working directory. The working directory is the file path R will follow to load or store files.
