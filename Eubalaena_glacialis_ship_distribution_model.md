@@ -62,7 +62,7 @@ We can now observe a map of the North Atlantic ocean which includes only ocean d
 
 ### B. Plotting the North Atlantic Right Whale's distribution
 
-Download occurrence data. Occurrence data is recorded evidence that a certain species occurred at a certain place at a certain time. Here we download occurrence data of the North Atlantic Right Whale from GBIF.org (Global Biodiversity Information Facility). We use a csv format (comma-separated values), a type of text file.
+Download occurrence data. Occurrence data is recorded evidence that a certain species occurred at a certain place at a certain time. Here we download occurrence data of the North Atlantic Right Whale from GBIF.org (Global Biodiversity Information Facility). We use a csv format (comma-separated values), a type of text file. This file is attached in my repository. 
 
 ```{r}
 # load pre-downloaded occurrence data 
