@@ -211,7 +211,7 @@ mtext(side = 1, line = 3, "Longitude (decimal degrees)", font = 2, cex = 1)
 mtext(side = 2, line = 3, "Latitude (decimal degrees)", font = 2, cex = 1)
 ```
 
-To better illustrate whether both distributions overlap, reduce the size and opacity of the points representing individual ships.
+To better illustrate whether both distributions overlap, reduce the size and opacity of the points representing occurences of North Atlantic Right whales.
 
 ```{r echo=TRUE}
 # plot ship traffic data
