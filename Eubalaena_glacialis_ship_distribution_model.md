@@ -147,7 +147,7 @@ mtext(side = 2, line = 3, "Latitude (decimal degrees)", font = 2, cex = 1)
 
 ### C. Plotting the shipping traffic density
 
-We then load our ship traffic data. Here we source it from NCEAS (National Center for Ecological Analysis and Synthesis) from an impressive study on the assessment of cumulative human impacts globally. Download the Commercial Shipping Lanes dataset. Here we use the one from 2013, with a tif format.
+We then load our ship traffic data. Here we source it from NCEAS (National Center for Ecological Analysis and Synthesis) from an impressive study on the assessment of cumulative human impacts globally. The database is available here https://knb.ecoinformatics.org/view/doi:10.5063/F1S180FS. Download the Commercial Shipping Lanes dataset from 2013 named "raw_2013_shipping_mol.zip". Once the zip file is decompressed, a tif file is accessible for use.
 
 ```{r echo=TRUE}
 # load pre-downloaded file of ship traffic data
