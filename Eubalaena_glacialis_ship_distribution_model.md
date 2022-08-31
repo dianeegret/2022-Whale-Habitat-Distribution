@@ -18,7 +18,7 @@ library("rgeos")
 library("rgdal")
 ```
 
-We then load environmental data. A background map of the oceans and land will help us illustrate the North Atlantic Right Whale's distribution and put it into context. Here we source it from Gebco.net as a raster of the North Atlantic ocean. We use a tif format (Tagged Image Format), an image format for storing raster graphics images. A raster is two-dimensional map format composed of gridded data that can be visualized when plotted.
+We then load environmental data. A background map of the oceans and land will help us illustrate the North Atlantic Right Whale's (_Eubalaena Glacialis_) distribution and put it into context. Here we source it from Gebco.net as a raster of the North Atlantic ocean. We use a tif format (Tagged Image Format), an image format for storing raster graphics images. A raster is two-dimensional map format composed of gridded data that can be visualized when plotted.
 
 ```{r echo=TRUE}
 # load pre-downloaded file of environmental data
