@@ -36,7 +36,7 @@ This project shows how spatial data can be used to **link human activity to spec
 ## Files
 
 * `Diane_Egret_Final_Report.pdf` – Full report with background, methods, results, discussion, and references.
-* `Methods.pdf` – Step-by-step technical methods for reproducing the analysis.
+* `Methods.html` – Step-by-step technical methods for reproducing the analysis.
 * `newdata.csv` – Cleaned whale occurrence dataset used in the analysis.
 
 ## Credits
