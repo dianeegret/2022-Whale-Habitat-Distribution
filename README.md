@@ -11,6 +11,10 @@ This project explores the **overlap between the North Atlantic right whale’s h
 
 The final outputs clearly show that whales and major shipping lanes coincide along the east coasts of the U.S. and Canada.
 
+Below is one of the plots produced as output, for illustrative purposes:
+
+<img src="images/plot.png" width="500">
+
 ## Why this matters
 
 The North Atlantic right whale has fewer than 350 individuals left. Ship collisions are one of the leading causes of death. By visualizing overlaps, this project highlights the need for protective measures like slower ship speeds and re-routed shipping lanes.
